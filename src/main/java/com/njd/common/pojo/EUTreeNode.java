@@ -1,4 +1,4 @@
-package com.taotao.common.pojo;
+package com.njd.common.pojo;
 
 public class EUTreeNode {
 	private Long id;

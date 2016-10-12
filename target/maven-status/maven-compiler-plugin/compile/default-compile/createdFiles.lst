@@ -1,2 +1,5 @@
 com\taotao\common\pojo\EUTreeNode.class
+com\taotao\common\util\IDUtils.class
 com\taotao\common\pojo\EUDataGridResult.class
+com\taotao\common\util\FTPUtil.class
+com\taotao\common\util\JsonUtils.class
